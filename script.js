@@ -1,7 +1,7 @@
- */============================================= 
-  Carine & Micheal — Wedding Invitation
-  Vanilla JS: countdown, RSVP, animations, confetti
-============================================= */
+/**
+ * Carine & Micheal — Wedding Invitation
+ * Vanilla JS: countdown, RSVP, animations, confetti
+ */
 
 (function () {
   'use strict';
